@@ -20,7 +20,7 @@
 
 <h1 align="center"><img src="https://media1.tenor.com/m/aq9o0GnCdg8AAAAC/down-arrow-symbol.gif" width="50"></h1>
 
-<b>Github stats</b>
+## <b>Github stats</b>
 
 [![](https://github-readme-stats.vercel.app/api?username=lauracs6&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lauracs6)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lauracs6&theme=material-palenight)](https://github.com/lauracs6)
