@@ -25,3 +25,10 @@
 [![](https://github-readme-stats.vercel.app/api?username=lauracs6&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lauracs6)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lauracs6&theme=material-palenight)](https://github.com/lauracs6)
 </div>
+
+## <b>Languages and other</b>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
