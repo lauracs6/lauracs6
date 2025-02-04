@@ -22,7 +22,7 @@
     <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4.png" style="max-width: 60px; height: 35px;">
 </a>    
 
-<h1 align="center"><img src="https://media1.tenor.com/m/aq9o0GnCdg8AAAAC/down-arrow-symbol.gif" width="50"></h1>
+<h1 align="center"><img src="https://media1.tenor.com/m/aq9o0GnCdg8AAAAC/down-arrow-symbol.gif" width="20"></h1>
 
 ## <b>GitHub Stats</b>
 
