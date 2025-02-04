@@ -32,3 +32,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lauracs6/lauracs6/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
