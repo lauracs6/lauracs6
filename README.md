@@ -3,7 +3,6 @@
 
 <img align="right" width="200px" alt="Typing" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" />
 
-
 <b>Check out my Social Media</b>
 
 <a href= "https://www.instagram.com/magnetsnmiracles/">
@@ -21,8 +20,6 @@
 <a href="https://open.spotify.com/user/blacksora?si=qSs6iMhNQiuqQM-bxsN8aw" >
     <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4.png" style="max-width: 60px; height: 35px;">
 </a>    
-
-<h1 align="center"><img src="https://media1.tenor.com/m/aq9o0GnCdg8AAAAC/down-arrow-symbol.gif" width="20"></h1>
 
 ## <b>GitHub Stats</b>
 
