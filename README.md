@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 
+<a href="https://open.spotify.com/user/blacksora?si=qSs6iMhNQiuqQM-bxsN8aw" >
+    <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4.png">
+</a>    
+
 <h1 align="center"><img src="https://media1.tenor.com/m/aq9o0GnCdg8AAAAC/down-arrow-symbol.gif" width="50"></h1>
 
 ## <b>GitHub Stats</b>
