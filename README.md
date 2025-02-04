@@ -34,17 +34,3 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lauracs6/lauracs6/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<a href="https://spotify-recently-played-readme.vercel.app/">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lauracs6" alt="Spotify recently played" width="160"/>
-</a>
-
-
