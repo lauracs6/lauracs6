@@ -43,3 +43,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<a href="https://spotify-recently-played-readme.vercel.app/">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lauracs6" alt="Spotify recently played" width="160"/>
+</a>
+
+
