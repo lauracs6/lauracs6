@@ -38,3 +38,4 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
+<img align="center" width="200px" alt="Typing" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRwMXd3c29oNDEyMXAzMjBweG1lcXZxNmQ3MWRjZ3I2ZGZyanI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" />
