@@ -29,19 +29,19 @@
 
 ## <b>Languages and other</b>
 
-<a href="https://www.dropbox.com/scl/fi/dv8t97saxtmwf8qoydjt4/aprendejava.pdf?rlkey=h6ha43h04ijt97d6iyv91fp55&e=3&st=dfrfnw1i&dl=0" target="_blank">
+<a href="https://www.dropbox.com/scl/fi/dv8t97saxtmwf8qoydjt4/aprendejava.pdf?rlkey=h6ha43h04ijt97d6iyv91fp55&e=3&st=dfrfnw1i&dl=0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 </a>
 
-<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 </a>
 
-<a href="https://flexboxfroggy.com/#es" target="_blank">
+<a href="https://flexboxfroggy.com/#es" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </a>
 
-<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank">
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 </a>
 
