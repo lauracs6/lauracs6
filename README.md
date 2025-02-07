@@ -27,6 +27,10 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lauracs6&theme=material-palenight)](https://github.com/lauracs6)
 </div>
 
+## <b>Codewars Stats</b>
+![Codewars Badge](https://www.codewars.com/users/lauracs6/badges/large)
+
+
 ## <b>Languages and other</b>
 
 <a href="https://www.dropbox.com/scl/fi/dv8t97saxtmwf8qoydjt4/aprendejava.pdf?rlkey=h6ha43h04ijt97d6iyv91fp55&e=3&st=dfrfnw1i&dl=0" target="_blank" rel="noopener noreferrer">
