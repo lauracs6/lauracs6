@@ -29,10 +29,21 @@
 
 ## <b>Languages and other</b>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<a href="https://www.dropbox.com/scl/fi/dv8t97saxtmwf8qoydjt4/aprendejava.pdf?rlkey=h6ha43h04ijt97d6iyv91fp55&e=3&st=dfrfnw1i&dl=0">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+</a>
+
+<a href="https://www.w3schools.com/html/html_intro.asp">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://flexboxfroggy.com/#es">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://www.w3schools.com/sql/sql_intro.asp">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</a>    
 
 
 <img align="center" width="200px" alt="Typing" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRwMXd3c29oNDEyMXAzMjBweG1lcXZxNmQ3MWRjZ3I2ZGZyanI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" />
