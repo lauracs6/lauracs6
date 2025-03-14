@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi </b><img src="https://media.tenor.com/rmPqYkDwxwQAAAAj/cute-paws.gif" width="35"> , I'm Laura </h1>
+<h1 align="center"><b>Hi, I'm Laura </b><img src="https://giphy.com/stickers/transparent-pyxno1wP60JM7pttQx" width="35"></h1>
 <!--  -->
 
 <img align="right" width="200px" alt="Typing" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" />
