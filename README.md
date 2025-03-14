@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 
+</br>
+</br>
+</br>
+</br>
+
 ## <b>GitHub Stats</b>
 
 [![](https://github-readme-stats.vercel.app/api?username=lauracs6&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lauracs6)
