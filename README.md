@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Laura </b><img src="https://static.vecteezy.com/system/resources/previews/035/199/335/non_2x/ai-generated-black-flower-isolated-on-transparent-background-free-png.png" width="40" height="30"></h1>
+<h1 align="center"><b>Hi, I'm Laura </b></h1>
 <!--  -->
 
 <img align="right" width="200px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
