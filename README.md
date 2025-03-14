@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Laura </b><img src="https://media.tenor.com/d_bbyHuXw0gAAAAj/b%C3%B6be-giffjei-black-and-white.gif" width="90" height="40"></h1>
+<h1 align="center"><b>Hi, I'm Laura </b><img src="https://media.tenor.com/d_bbyHuXw0gAAAAj/b%C3%B6be-giffjei-black-and-white.gif" width="90" height="60"></h1>
 <!--  -->
 
 <img align="right" width="200px" alt="Typing" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" />
