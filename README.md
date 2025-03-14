@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Laura </b><img src="https://static.vecteezy.com/system/resources/previews/035/199/335/non_2x/ai-generated-black-flower-isolated-on-transparent-background-free-png.png" width="40" height="30"></h1>
 <!--  -->
 
-<img align="right" width="200px" alt="Typing" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" />
+<img align="right" width="200px" alt="Typing" src="https://giphy.com/stickers/girl-boss-busy-bee-desk-life-h5vCZ5J3EJBQ7IkvO9" />
 
 <b>Check out my Social Media</b>
 
