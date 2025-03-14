@@ -53,4 +53,4 @@
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"><img src="https://img.shields.io/badge/xml-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 
-<img align="center" width="200px" alt="Typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRoNWJpZWZ4MHMxNjBpYmJjN3o4eGdnanVibXMydXFlYTltemZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SP3eWzz1O8vkcbklVq/giphy.gif" />
+<img align="center" width="150px" alt="Typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRoNWJpZWZ4MHMxNjBpYmJjN3o4eGdnanVibXMydXFlYTltemZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SP3eWzz1O8vkcbklVq/giphy.gif" />
