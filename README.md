@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Laura </b><img src="https://static.vecteezy.com/system/resources/previews/035/199/335/non_2x/ai-generated-black-flower-isolated-on-transparent-background-free-png.png" width="80" height="60"></h1>
+<h1 align="center"><b>Hi, I'm Laura </b><img src="https://static.vecteezy.com/system/resources/previews/035/199/335/non_2x/ai-generated-black-flower-isolated-on-transparent-background-free-png.png" width="40" height="20"></h1>
 <!--  -->
 
 <img align="right" width="200px" alt="Typing" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" />
@@ -16,10 +16,6 @@
 <a href="https://www.tiktok.com/@lauracs6_" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
-
-<a href="https://open.spotify.com/user/blacksora?si=qSs6iMhNQiuqQM-bxsN8aw" >
-    <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4.png" style="max-width: 60px; height: 35px;">
-</a>    
 
 ## <b>GitHub Stats</b>
 
@@ -48,6 +44,12 @@
 <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 </a>
+
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/xml-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 
 <img align="center" width="200px" alt="Typing" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRwMXd3c29oNDEyMXAzMjBweG1lcXZxNmQ3MWRjZ3I2ZGZyanI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" />
