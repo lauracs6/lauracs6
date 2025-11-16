@@ -5,7 +5,7 @@
 
 <b>Check out my Social Media</b>
 
-<a href= "https://www.instagram.com/magnetsnmiracles/">
+<a href= "https://www.instagram.com/laura.cs6/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
