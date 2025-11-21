@@ -9,14 +9,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://www.youtube.com/@lauracs6">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
-
-<a href="https://www.tiktok.com/@lauracs6_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-
 </br>
 </br>
 </br>
@@ -56,4 +48,4 @@
 </br>
 </br>
 </br>
-<img align="center" width="120px" alt="Typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRoNWJpZWZ4MHMxNjBpYmJjN3o4eGdnanVibXMydXFlYTltemZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SP3eWzz1O8vkcbklVq/giphy.gif" />
+<img align="center" width="120px" alt="Typing" src="https://cdn-icons-png.flaticon.com/256/11471/11471271.png" />
