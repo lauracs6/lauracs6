@@ -2,6 +2,7 @@
 <!--  -->
 
 <p align="left">Developer in development💻
+  
 I possess a strong combination of technical knowledge and pedagogical skills, a solid background in Music Education, and the ability to convey technical knowledge clearly and accessibly.
 I excel at empathy, patience, and motivating others, and my collaborative approach fosters a team-oriented work environment that enhances collective creativity.
 </p>
