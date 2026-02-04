@@ -24,4 +24,5 @@
 
 ## <b>More about me</b>
 
-<a href="https://www.linkedin.com/in/laura-cabrera-sagrera-6975b8247/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     <img align="center" width="120px" alt="Typing" src="https://cdn-icons-png.flaticon.com/256/11471/11471271.png" />
+<a href="https://www.linkedin.com/in/laura-cabrera-sagrera-6975b8247/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img align="center" width="120px" alt="Typing" src="https://cdn-icons-png.flaticon.com/256/11471/11471271.png" />
