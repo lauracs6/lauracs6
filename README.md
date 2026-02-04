@@ -1,16 +1,12 @@
 <h1 align="center"><b>Hi, I'm Laura </b></h1>
 <!--  -->
 
-<img align="center" width="200px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
+<img align="right" width="150px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
 
 </br>
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-
 
 ## <b>Codewars Stats</b>
 ![Codewars Badge](https://www.codewars.com/users/lauracs6/badges/large)
