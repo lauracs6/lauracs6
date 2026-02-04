@@ -1,6 +1,11 @@
 <h1 align="center"><b>Hi, I'm Laura </b></h1>
 <!--  -->
 
+Developer in development💻
+
+I possess a strong combination of technical knowledge and pedagogical skills, a solid background in Music Education, and the ability to convey technical knowledge clearly and accessibly.
+I excel at empathy, patience, and motivating others, and my collaborative approach fosters a team-oriented work environment that enhances collective creativity.
+
 <img align="right" width="150px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
 
 </br>
