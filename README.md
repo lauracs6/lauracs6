@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Laura </b></h1>
 <!--  -->
 
-<img align="right" width="200px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
+<img align="center" width="200px" alt="Typing" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx2czM2MXV4b2JlMzFuYmgzNjZkNTI3aHJsaHhjcmY5aHh0OGh4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" />
 
 </br>
 </br>
@@ -25,4 +25,5 @@
 ## <b>More about me</b>
 
 <a href="https://www.linkedin.com/in/laura-cabrera-sagrera-6975b8247/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</br>
 <img align="center" width="120px" alt="Typing" src="https://cdn-icons-png.flaticon.com/256/11471/11471271.png" />
